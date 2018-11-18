@@ -9,4 +9,10 @@ The core idea -- as well as the creative point -- of this game is the control me
 The most surprising puzzle of all is a clock-time-shadow system. Player can control a clock by swinging their arms and thus to change sunlight direction. When the sunlight is in a certain direction, **some of our objects in the scene together with their shadows will format a hinted pattern**, which will enable player to reach the final goal.
 
 ## Screenshot & Video Demo
-![Image text](https://github.com/rebas777/RollABubble/tree/master/Screenshots/Screenshot1.jpg)
+![Screenshot1](https://raw.githubusercontent.com/wiki/rebas777/RollABubble/Screenshot1.jpg)
+![Screenshot2](https://raw.githubusercontent.com/wiki/rebas777/RollABubble/Screenshot2.jpg)
+![Screenshot3](https://raw.githubusercontent.com/wiki/rebas777/RollABubble/Screenshot3.jpg)
+![Screenshot4](https://raw.githubusercontent.com/wiki/rebas777/RollABubble/Screenshot4.jpg)
+![Screenshot5](https://raw.githubusercontent.com/wiki/rebas777/RollABubble/Screenshot5.jpg)
+
+
