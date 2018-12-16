@@ -2,6 +2,7 @@
 - A VR puzzle solving game(Unity + HTC VIVE)
 - Developed for “ID@Xbox Dream Campus” Game Development Competition
 - Developed by **Zoltan Jin** (rebas777) and **Junyi Liu** (Jim3060)
+- Online Video Demo : [YouTube Link](https://youtu.be/V1jSliE8PPg)
 
 ## Intension
 The core idea -- as well as the creative point -- of this game is the control mechanism. Lots of the first person VR games share the same control mechanism -- users have to aim at a certain point by the VR controller and then press a button in order to move to that point. However, in this game, our character is a bubble which will just roll to move around. Our users will **circle the VR controller** in order to force the bubble to roll.
